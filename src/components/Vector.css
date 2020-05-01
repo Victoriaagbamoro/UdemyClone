@@ -1,0 +1,46 @@
+.doctor{
+    /* border-radius: 50%; */
+    height: 20%;
+    width: 20%;
+}
+
+.vector{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+
+.paravec{
+    width: 80%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: grey;
+    font-size: 15px;
+}
+
+.grow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: grey;
+    width: 70%;
+    margin: auto;
+    margin-top: 2rem;
+}
+.vectorSection{
+    width: 80%;
+}
+h3{
+    color: #0b132b;
+}
+
+/* .vectorSection{
+
+} */
+
+.imageDiv{
+    width: 100%;
+    height: 75vh;
+}

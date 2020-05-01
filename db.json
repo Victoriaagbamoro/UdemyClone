@@ -1,0 +1,36 @@
+{
+    "Students": [
+    {
+        "name": "Agbamoro Victoria",
+        "email": "agbamorovictoria@gmail.com"
+    },
+    {
+        "name": "Grace Mercy",
+        "email": "gracemercy@gmail.com"
+    },
+
+    {
+        "name": "Dorcas Eze",
+        "email": "dorcaseze@gmail.com"
+    },
+
+    {
+        "name": "Amarachi Ilechukwu",
+        "email": "dorcaseze@gmail.com"
+    },
+    {
+        "instructors":[
+        {
+            "name": "John Doe",
+            "email": "johndoe@gmail.com"
+
+        },
+        {
+            "name": "Amaka Smith",
+            "email": "amakasmith@gmail.com"
+
+        }
+        ]
+    }
+    ]
+}

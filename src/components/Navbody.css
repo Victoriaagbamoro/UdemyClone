@@ -1,0 +1,21 @@
+.section{
+    background-color:  #ee3228e0;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-evenly;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.text{
+    color: #fff;
+    width: 50%;
+    font-size: 18px;
+    font-size: 800;
+    margin:  10px;
+    padding:10
+    px 10px ;
+}
+
+
